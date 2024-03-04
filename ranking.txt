@@ -1,0 +1,50 @@
+fir
+ 20
+sec
+ 22
+trd
+ 45
+frh
+ 50
+fth
+110
+fir
+ 20
+sec
+ 22
+trd
+ 45
+frh
+ 60
+fth
+110
+fir
+ 20
+sec
+ 22
+trd
+ 45
+frh
+ 60
+fth
+110
+fir
+ 20
+sec
+ 22
+trd
+ 45
+frh
+ 60
+fth
+110
+fir
+ 20
+sec
+ 22
+trd
+ 45
+frh
+ 60
+fth
+110
